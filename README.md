@@ -1,2 +1,4 @@
 # Maze-Navigator
-A robot will navigate itself through 3 different sets of mazes
+This repository contains three different mazes.
+A robot will navigate through all of them using Python Turtle.
+This was my project for PLTW Lesson 1.1.5
